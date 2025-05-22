@@ -8,4 +8,4 @@
 | 4  | Dita Titania                    | 24111814010 |
 | 5  | Muhammad nur Thohir             | 24111814074 |
 | 6  | Eni Noviasari                   | 24111814040 |
-| 7  | Muhammad Rifqi Iqbal Ghufron    | 24111814079 |
+| 7  | Muhammad Rifqi Iqbal Ghufron    | 24111814073 |
