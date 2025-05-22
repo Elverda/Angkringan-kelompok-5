@@ -1,6 +1,5 @@
 package com.example.angkringan_99.service;
 
-import com.example.angkringan_99.model.User;
 import org.springframework.stereotype.Service;
 
 import java.util.HashMap;
